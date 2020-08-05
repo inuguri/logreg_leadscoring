@@ -1,2 +1,3 @@
-# logreg_leadscoring
-Predict Leads for Online Education 
+# Logistic Regression
+
+Predict Leads for Online Education using Logistic Regression
